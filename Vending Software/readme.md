@@ -7,6 +7,6 @@ This code is a vending machine. When you run the code, it shows you a list of th
 > Questions are shown and after answering them, it is determined what discounts you can get..
 
 ## Information about the file:-
-- **Code Type:** Assignment for Programming 1 course at Necmettin Erbakan University
+- **Code Type:** Assignment for AVP-1 course at Necmettin Erbakan University
 - **Date of writing the code:** 10/20/2022
 - **The language of the text inside the code:** Turkish
