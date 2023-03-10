@@ -5,7 +5,6 @@ int main()
 {
     int a,b,choice,num,us,result,kok,rt,log;
 
-    //////////////////////////////
     printf("-----Welcome-----\n");
     printf("Hesap makinesi 1.7v");
     devam:
