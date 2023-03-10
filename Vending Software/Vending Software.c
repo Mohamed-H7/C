@@ -18,7 +18,7 @@ int main()
     printf("- 65 yas ustu icin bir bardak ucretsiz cay\n");
     printf("----------------------------------------\n");
 
-    //Sorular bölümü//
+    //Sorular bölümü// 
     printf("- Su almak ister misiniz?\n");
     printf("Evet [1]\n");
     printf("Hayir [0]\n");
