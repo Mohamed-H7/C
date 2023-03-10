@@ -152,7 +152,7 @@ void addition()
 
             printf("Enter the employee's age\n");
             printf("> ");
-            scanf("%d",&(p+i)->age);
+            scanf("%d",&(p+i)->age); 
 
             printf("Enter the employee's salary\n");
             printf("> ");
